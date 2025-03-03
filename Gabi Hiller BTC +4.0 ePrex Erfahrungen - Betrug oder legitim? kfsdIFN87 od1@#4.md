@@ -1,10 +1,5 @@
-<img class="wp-image-35294 aligncenter" 
-     src="https://allnewsall.info/wp-content/uploads/2024/11/image-131-1024x512.png" 
-     alt="" 
-     width="450" 
-     height="280">
 
-<div class="d-flex flex-row socials align-items-center"><img class="aligncenter wp-image-15731" src="https://allnewsall.info/wp-content/uploads/2024/10/photo76uyuyuyyu.webp" alt="" width="1103" height="735" /></div>
+
 
 
 <h2>Großer Skandal: ORF-Management verweigert Kommentar zu seinem Mitarbeiter Christoph Grissemann</h2>
