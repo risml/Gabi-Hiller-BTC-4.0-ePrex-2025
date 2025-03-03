@@ -2,7 +2,7 @@
      src="https://allnewsall.info/wp-content/uploads/2024/11/image-131-1024x512.png" 
      alt="" 
      width="450" 
-     height="320">
+     height="280">
 
 
 
